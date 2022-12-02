@@ -5,7 +5,6 @@ import java.by.bsuir.vt3.beans.Profile;
 import java.util.List;
 
 public interface ProfileDao {
-
     List<Profile> getAll();
     String login(String username, String password);
     AccountType getAccountType(String authToken);
