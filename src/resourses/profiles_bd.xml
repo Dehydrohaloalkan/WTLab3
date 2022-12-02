@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles>
+    <profile>
+        <username>user</username>
+        <password>1234</password>
+        <accountType>USER</accountType>
+    </profile>
+    <profile>
+        <username>admin</username>
+        <password>password</password>
+        <accountType>ADMIN</accountType>
+    </profile>
+</profiles>
