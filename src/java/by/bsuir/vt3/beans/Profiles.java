@@ -1,9 +1,13 @@
 package java.by.bsuir.vt3.beans;
 
+import jakarta.xml.bind.annotation.*;
+import lombok.Getter;
+import lombok.Setter;
+
 import java.util.List;
 
-import jakarta.xml.bind.annotation.*;
-
+@Getter
+@Setter
 @XmlRootElement(name="profiles")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Profiles{
@@ -11,12 +15,4 @@ public class Profiles{
             @XmlElement(name="profile",type = Profile.class),
     })
     private List<Profile> profiles;
-
-
-    public List<Profile> getProfiles() {
-        return profiles;
-    }
-    public void setProfiles(List<Profile> profiles) {
-        this.profiles = profiles;
-    }
 }

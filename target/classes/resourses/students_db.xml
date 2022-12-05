@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>0</id>
+        <name>Sam Porter Bridges</name>
+        <group>051003</group>
+        <avgGrade>6.7</avgGrade>
+    </student>
+    <student>
+        <id>1</id>
+        <name>Clifford Unger</name>
+        <group>051004</group>
+        <avgGrade>4.5</avgGrade>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Higgs Monaghan</name>
+        <group>051002</group>
+        <avgGrade>3.7</avgGrade>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Fragile</name>
+        <group>051001</group>
+        <avgGrade>7.9</avgGrade>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Deadman</name>
+        <group>051002</group>
+        <avgGrade>9.4</avgGrade>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Die-Hardman</name>
+        <group>051002</group>
+        <avgGrade>8.9</avgGrade>
+    </student>
+    <student>
+        <id>6</id>
+        <name>Heartman</name>
+        <group>051001</group>
+        <avgGrade>8.2</avgGrade>
+    </student>
+</students>

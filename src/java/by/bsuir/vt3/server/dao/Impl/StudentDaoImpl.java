@@ -1,5 +1,7 @@
 package java.by.bsuir.vt3.server.dao.Impl;
 
+import jakarta.xml.bind.JAXBContext;
+
 import java.by.bsuir.vt3.beans.Student;
 import java.by.bsuir.vt3.beans.Students;
 import java.by.bsuir.vt3.server.dao.StudentDao;
